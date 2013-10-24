@@ -21,5 +21,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/silkyprogrammer/sleep-sort/issues"
-  }
+  },
+ "devDependencies": {
+      "mocha":"",
+      "should":""
+    }
 }
