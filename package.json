@@ -1,0 +1,25 @@
+{
+  "name": "sleep-sort",
+  "version": "0.0.0",
+  "description": "a simple sleep-sort module",
+  "main": "lib/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silkyprogrammer/sleep-sort.git"
+  },
+  "keywords": [
+    "sleep-sort",
+    "algorithm"
+  ],
+  "author": "Hari Palappetty (ref:Anders Janmyr)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silkyprogrammer/sleep-sort/issues"
+  }
+}
